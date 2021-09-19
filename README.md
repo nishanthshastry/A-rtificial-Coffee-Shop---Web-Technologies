@@ -18,4 +18,3 @@ operations.
 3. PHP & DBMS (PHPMYADMIN)
 4. BOOTSRAP & JQUERY
 
-**Its important to note that the *bootstrap* file has the required *css*, *js* and *fonts* that are majorly concerning this project.**
