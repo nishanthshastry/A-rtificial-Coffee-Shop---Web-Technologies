@@ -17,5 +17,3 @@ operations.
 2. HTML, CSS & JAVASCRIPT
 3. PHP & DBMS (PHPMYADMIN)
 4. BOOTSRAP & JQUERY
-
-**Project website Link: -** https://intelligensia.000webhostapp.com/
