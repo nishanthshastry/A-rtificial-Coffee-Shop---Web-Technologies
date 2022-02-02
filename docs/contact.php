@@ -26,7 +26,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xs-4 col-xs-offset-4">
-                        <p>Some texthhghghghghg </p>
+                        <p>Nishanth S Shastry - +91 XXXXXXXXXX </p>
+                        <p>Monish S - +91 XXXXXXXXXX </p>
+                        <p>Bhavin G Chennur - +91 XXXXXXXXXX </p>
                     </div>
                 </div>
             </div>
